@@ -17,3 +17,10 @@
 p {
 	font-size:15px;
 }
+footer li, a{
+	color:white;
+}
+footer h3{
+	font-weight: 400; 
+
+}
