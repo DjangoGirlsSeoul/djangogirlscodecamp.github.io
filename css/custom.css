@@ -25,6 +25,9 @@ footer h3{
 	font-weight: 400; 
 
 }
+
 .sponsorimg {
     padding-top:2em;
+    max-width:100%;
+    max-height:150px;
 }
