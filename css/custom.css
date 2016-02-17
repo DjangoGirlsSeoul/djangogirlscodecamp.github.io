@@ -25,6 +25,7 @@ footer h3{
 	font-weight: 400; 
 
 }
+
 .portimg {
     max-width: 300px;
     max-height: 300px;
@@ -34,4 +35,11 @@ footer h3{
 }
 .curriculum {
     padding-top:3em;
+}
+
+.sponsorimg {
+    padding-top:2em;
+    max-width:100%;
+    max-height:150px;
+
 }
